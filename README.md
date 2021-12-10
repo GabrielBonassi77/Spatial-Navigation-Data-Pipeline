@@ -13,5 +13,11 @@ git clone https://github.com/DeepLabCut/DeepLabCut.git
 
 Next, cd into the folder of the cloned repository (the folder you just downloaded) and then cd into \conda-environments
 
-If you cloned the repo onto your Desktop, the command may look like:  
-```cd C:\Users\YourUserName\Desktop\DeepLabCut\conda-environments```
+If you cloned the repo onto your Desktop, the command may look like:
+  
+```cd C:\Users\YourUserName\Desktop\DeepLabCut\conda-environments```  
+  
+Now run 
+```bash
+conda env create -f DEEPLABCUT.yaml
+```
