@@ -1,2 +1,2 @@
 # Welcome to the Spatial Navigation Data Pipeline
-Python based spatial navigation data pipeline GUI created with Deeplabcut. 
+To get started plase download Anaconda if not already installed https://docs.anaconda.com/anaconda/install/windows/ 
