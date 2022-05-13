@@ -6,7 +6,9 @@ This data pipeline allows users to extract useful motion data from videos in a s
 
 ## How to Use the Data Pipeline
 
-To get started please download Anaconda if not already installed.
+To get started, the only thing you need to analyze data is the .h5 file that is produced after you analyze a video with your trained DLC network.
+
+Next, download Anaconda if you have not already done so.
 
 https://docs.anaconda.com/anaconda/install/windows/ 
 
@@ -14,5 +16,5 @@ From the Anaconda Home Page, click on Jupyter Notebook. You must install it if u
 
 ![This is an image](https://github.com/GabrielBonassi77/Spatial-Navigation-Data-Pipeline/blob/main/Screenshot%202022-05-12%20163219.png)
 
-After opening J
+After opening Jupyter Notebook, upload your .h5 file using the button on the top right corner. In the third code box, change the name of the video and DLCscorer variables to match that of your .h5 file.
   
