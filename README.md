@@ -16,5 +16,5 @@ From the Anaconda Home Page, click on Jupyter Notebook. You must install it if u
 
 ![This is an image](https://github.com/GabrielBonassi77/Spatial-Navigation-Data-Pipeline/blob/main/Screenshot%202022-05-12%20163219.png)
 
-After opening Jupyter Notebook, upload your .h5 file using the button on the top right corner. Next, upload the SpatialNavigationPipeline.ipynb file by doing the same thing. Then, cick on the SpatialNavigationPipeline.ipynb file and navigate to the third code text box. In this code snippet, change the name of the video and DLCscorer variables to match that of your .h5 file that you uploaded.
+Once Anaconda is downloaded, click launch to open Jupyter Notebook. A popup window in your browser should have appeared. Now, upload your .h5 file using the button on the top right corner. Next, upload the SpatialNavigationPipeline.ipynb file by also using the upload button. Then, click on the SpatialNavigationPipeline.ipynb file and navigate to the third code text box. In this code snippet, change the name of the video and DLCscorer variables to match that of your .h5 file that you uploaded.
   
