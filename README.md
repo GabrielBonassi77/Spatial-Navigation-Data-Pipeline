@@ -1,7 +1,7 @@
 # Welcome to the Spatial Navigation Data Pipeline
 To get started please download Anaconda if not already installed.
 
-Download Anaconda Here: https://docs.anaconda.com/anaconda/install/windows/ 
+https://docs.anaconda.com/anaconda/install/windows/ 
 
 Note: that this data pipeline is meant for analysis of motion data obtained from video via DeepLabCut (DLC). This repository will not explain how to use DLC, so visit https://github.com/DeepLabCut/DeepLabCut to download and learn how to use the library.
 
