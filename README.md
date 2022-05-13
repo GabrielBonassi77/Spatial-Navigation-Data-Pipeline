@@ -1,4 +1,7 @@
 # Welcome to the Spatial Navigation Data Pipeline
+
+This work is adapted from the works of Federico Claudi and Alexander Mathis. The velocity threshold algorithm was inspired by Dr. Roberto Vincis of Florida State Univeristy and authored by Gabriel Bonassi.
+
 To get started please download Anaconda if not already installed.
 
 https://docs.anaconda.com/anaconda/install/windows/ 
