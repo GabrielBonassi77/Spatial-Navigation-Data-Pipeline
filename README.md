@@ -1,6 +1,6 @@
 # Welcome to the Spatial Navigation Data Pipeline
 
-This code is adapted from the works of Federico Claudi and Alexander Mathis. The velocity threshold algorithm was inspired by Dr. Roberto Vincis of Florida State Univeristy and authored by Gabriel Bonassi.
+This data pipeline allows users to extract useful motion data from videos in a straightforward manner. In regards to it's application in neuroscience, the velocity threshold algorithm utilized by the data pipeline can calculate the velocity of individual body parts between frames and automatically remove data points that exceed a set velocity threshold. In theory, by removing neural data points that are more likely to be attributed to motion instead of the                         uthored by Gabriel Bonassi.was inspired by Dr. Roberto Vincis of Florida State Univeristy.
 
 To get started please download Anaconda if not already installed.
 
